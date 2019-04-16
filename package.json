@@ -1,7 +1,7 @@
 {
-  "name": "bitandbang",
+  "name": "edehn",
   "version": "1.4.0",
-  "description": "A personal card for Tierney Cyren (@bitandbang)",
+  "description": "A personal card for Simon Lejeune (@edehn)",
   "main": "/bin/card.js",
   "bin": {
     "bitandbang": "./bin/card.js"
